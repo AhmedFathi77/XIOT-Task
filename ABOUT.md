@@ -9,7 +9,7 @@
  ## My Experience in Embedded sysems 
  
  ``` 
- 1 -C/C++ and Data Structure
+ 1- C/C++ and Data Structure
  2- Embedded C
  3- Interfacing with ATMEGA32 / TivaC / PIC / Arduino
  4- RTOS
